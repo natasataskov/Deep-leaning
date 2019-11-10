@@ -27,5 +27,8 @@ naloga 4:
 ![Figure_256](https://user-images.githubusercontent.com/26707441/68547121-f289e300-03dd-11ea-99ca-01107b4d3544.png)
 ![Figure_gru](https://user-images.githubusercontent.com/26707441/68547122-f289e300-03dd-11ea-91a6-c0fb86f25592.png)
 
+![graf bidirectional](https://user-images.githubusercontent.com/26707441/68551277-81612480-040b-11ea-958d-6c05ab56647a.png)
+
+
 
 
