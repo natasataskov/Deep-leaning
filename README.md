@@ -30,5 +30,9 @@ naloga 4:
 ![graf bidirectional](https://user-images.githubusercontent.com/26707441/68551277-81612480-040b-11ea-958d-6c05ab56647a.png)
 
 
+![Figure_lstm_dropout](https://user-images.githubusercontent.com/26707441/68551388-dcdfe200-040c-11ea-9ed3-662978922837.png)
+
+
+
 
 
