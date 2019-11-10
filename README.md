@@ -16,5 +16,16 @@ git push -u origin master
 
 ![grafi maxlen](https://user-images.githubusercontent.com/26707441/68546943-72af4900-03dc-11ea-86c3-19772d3997b7.png)
 
+naloga 4:
+
+![Figure_gru_lstm](https://user-images.githubusercontent.com/26707441/68547115-f158b600-03dd-11ea-93ac-9dc23df007ea.png)
+![Figure_lstm_gru](https://user-images.githubusercontent.com/26707441/68547116-f1f14c80-03dd-11ea-966c-e8bc3329c932.png)
+![Figure_lstm_gru_1](https://user-images.githubusercontent.com/26707441/68547117-f1f14c80-03dd-11ea-89f6-6e15ac056f96.png)
+![Figure_64](https://user-images.githubusercontent.com/26707441/68547118-f1f14c80-03dd-11ea-85fb-c4564377fec0.png)
+![Figure_128 (original)](https://user-images.githubusercontent.com/26707441/68547119-f1f14c80-03dd-11ea-8628-09480ab7bd1d.png)
+![Figure_128_two_layers](https://user-images.githubusercontent.com/26707441/68547120-f1f14c80-03dd-11ea-9a13-377c6e06a2d7.png)
+![Figure_256](https://user-images.githubusercontent.com/26707441/68547121-f289e300-03dd-11ea-99ca-01107b4d3544.png)
+![Figure_gru](https://user-images.githubusercontent.com/26707441/68547122-f289e300-03dd-11ea-91a6-c0fb86f25592.png)
+
 
 
